@@ -1,0 +1,28 @@
+name: MACMATICIAN
+favicon: null
+layout_spectrum: 0.17510076775215566
+typography_spectrum: 0.997965284390375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1826243211980909
+  lightness: 0.8624556695576757
+  saturation: 0.8798011937178671
+  rhythmicContrast: 0.8736799322068691
+purpose: []
